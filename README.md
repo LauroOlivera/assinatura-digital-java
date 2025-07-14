@@ -28,3 +28,14 @@ Fornecer uma **solução gratuita, segura e pronta para produção** para assina
 - 🔒 Assinatura visível ou invisível, conforme configuração.
 
 ---
+
+```markdown
+## 📂 Como usar
+
+Este repositório disponibiliza apenas o microserviço em Java utilizado para assinar arquivos PDF. A geração dos documentos ocorre em um sistema externo, desenvolvido em C#, que utiliza este serviço como parte do processo.
+
+### 1. Clone o projeto:
+
+```bash
+git clone https://github.com/LauroOlivera/assinatura-digital-java.git
+cd assinatura-digital-java
